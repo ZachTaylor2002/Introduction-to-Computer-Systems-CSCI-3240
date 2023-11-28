@@ -9,3 +9,5 @@ Project 1 - I was tasked with writing a C program that takes a single command-li
 Project 2 - I was tasked with chance to reverse engineer a set of five mystery functions from disassembled machine code (Assembly Language) 
 
 Project 3 - I was tasked with implementing a socket programming in C language (Linux environment) to implement a pair of client and server that provides functionalities such as adding a new record to the server, Request the server to serach the information on employees by name (full name), request the server to serach the information on employees by zip code, Request the server to serach the information on a employee by salary and a comparision operator and lastly close the connection with the server. 
+
+Project 4 - I was tasked with implementing Project 3 but making it (Concurrent) so that the server would allow for mutiple clients to have access to a share database.
